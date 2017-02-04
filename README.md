@@ -21,4 +21,4 @@ formats) and shorter than 30 seconds. Rename this file to "alert.wav" and place 
 4. (Optional) To use mail notifications, open sidemodules/MailBot.java and modify the final strings username and password to 
 those of a GMail e-mail address. The account you will use must have [allowed access from less secure apps](https://support.google.com/accounts/answer/6010255?hl=en).
 
-5. That's it. I too wish it was easier to set up ¯\\_(ツ)_/¯  
+5. That's it. I too wish it was easier to set up ¯\\\_(ツ)\_/¯  
