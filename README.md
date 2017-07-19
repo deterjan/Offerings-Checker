@@ -5,7 +5,7 @@ obtain the remaining quota for a given course and notifies the user when the quo
 
 # Setup
 
-This project requires a [only minimal configuration and tweaking](https://xkcd.com/1742/) to build and use.
+This project requires [only minimal configuration and tweaking](https://xkcd.com/1742/) to build and use.
 
 1. First, obtain JAR files for JSoup and JavaMail from the following links and add them as libraries to your project.
 https://jsoup.org <br/>
